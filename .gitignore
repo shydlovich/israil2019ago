@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/
+/dist/
+/.git/
+/assets/css/
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
